@@ -1,4 +1,6 @@
 /* 
+7 kyu Get list sum recursively
+
 Write function sumR which returns the sum of values in a given list. Try no to cheat and provide recursive solution.
 */
 
