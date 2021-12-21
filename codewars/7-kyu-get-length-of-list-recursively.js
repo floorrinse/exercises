@@ -1,5 +1,5 @@
 /* 
-7 kyu Get length of the list recusively
+7 kyu Get length of the list recursively
 
 Write funcion lenR which returns the length of a given list. Try no to cheat and provide recursive solution.
 */
