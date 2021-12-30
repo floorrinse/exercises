@@ -1,5 +1,5 @@
 /* 
-8 kyu
+8 kyu Find the smallest integer in teh array
 */
 
 
