@@ -1,4 +1,4 @@
-
+/* */
 
 
 const stringToNumber = function (str) {
