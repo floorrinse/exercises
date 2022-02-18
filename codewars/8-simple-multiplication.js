@@ -1,4 +1,6 @@
-/* */
+/* 
+8 kyu
+*/
 
 
 function simpleMultiplication(number) {
