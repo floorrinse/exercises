@@ -1,5 +1,5 @@
 /* 
-8 kyu
+8 kyu Simple multiplication
 */
 
 
