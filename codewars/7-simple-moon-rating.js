@@ -1,3 +1,7 @@
+/* 
+7 kyu Simple Moon Rating
+*/
+
 function moonRating(rating) {
   let moons = (rating % 1) < 0.5 ? Math.floor(rating) / 2 : Math.ceil(rating) / 2;
 
