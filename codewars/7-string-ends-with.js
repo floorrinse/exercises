@@ -1,5 +1,5 @@
 /* 
-7 kyu
+7 kyu String ends with?
 */
 
 function solution(str, ending) {
