@@ -1,9 +1,15 @@
+// Given a string, swap the case for each of the letters.
+
+// e.g.CodEwArs-- > cODeWaRS
+
+// Examples
+// "" -> ""
+// "CodeWars" -> "cODEwARS"
+// "abc" -> "ABC"
+// "ABC" -> "abc"
+// "123235" -> "123235"
+
 function swap(str){
-//1. create an empty str var
-//1. do a loop in str
-//2. if each i is toLowerCase, change toUpperCase
-//  else, change toLowerCase()
-//3. push to empty str var
   let updatedStr = '';
 
   for (i=0;i<str.length;i++) {
