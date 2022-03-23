@@ -17,12 +17,6 @@ Examples(a,b) --> output(explanation)
 */
 
 function GetSum(a, b) {
-    // 1. if a === b, return a;
-    // 2. convert a,b to array and sort it 
-    //sort(a, b) => (a-b)
-    // 3a. create sum var
-    // 3. for loop 
-    // 4. sum += i, return sum;
     if (a === b) {
         return a;
     }
