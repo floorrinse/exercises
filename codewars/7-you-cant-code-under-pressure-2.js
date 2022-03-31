@@ -14,5 +14,4 @@ function Counter() {
   this.increment = function() {
     return ++this.counter;
   }
-
 };
