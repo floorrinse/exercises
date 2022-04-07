@@ -1,5 +1,27 @@
+/* 
+8 kyu Cat years, Dog years
+
+I have a cat and a dog.
+
+I got them at the same time as kitten/puppy. That was humanYears years ago.
+
+Return their respective ages now as [humanYears,catYears,dogYears]
+
+NOTES:
+
+humanYears >= 1
+humanYears are whole numbers only
+Cat Years
+15 cat years for first year
++9 cat years for second year
++4 cat years for each year after that
+Dog Years
+15 dog years for first year
++9 dog years for second year
++5 dog years for each year after that
+*/
+
 var humanYearsCatYearsDogYears = function (humanYears) {
-  //1. create formula for calculating dog and cat years. first two years can be same but diverges 3rd year +
   let dogYears = 15 + 9 + ((humanYears - 2) * 5);
   let catYears = 15 + 9 + ((humanYears - 2) * 4);
   if (humanYears === 1) {
