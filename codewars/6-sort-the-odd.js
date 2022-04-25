@@ -1,3 +1,7 @@
+/*
+6 kyu Sort the odd
+ */
+
 function sortArray(array) {
   let odds = array.filter(num => num % 2 !== 0).sort((a, b) => a - b);
   return array.map(num => {
