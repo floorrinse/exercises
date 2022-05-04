@@ -1,3 +1,8 @@
+/* 
+7 kyu Get length of the list recursively
+
+*/
+
 function lenR(x) {
   let count = 0;
   if (x.length === 0) {
