@@ -1,3 +1,8 @@
+/* 
+7 kyu Pairs of integers from m to n
+
+*/
+
 function generatePairs(m, n) {
   let result = [];
   for (let i = m; i <= n; i++) {
