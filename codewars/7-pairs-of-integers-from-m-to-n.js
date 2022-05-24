@@ -5,7 +5,11 @@ Implement a function that receives two integers m and n and generates a sorted l
 
 The input m will always be smaller than or equal to n (e.g., m <= n)
 
+Example
+m = 2
+n = 4
 
+result = [(2, 2), (2, 3), (2, 4), (3, 3), (3, 4), (4, 4)]
 */
 
 function generatePairs(m, n) {
