@@ -1,3 +1,7 @@
+/* 
+7 kyu Consecutive items
+*/
+
 function consecutive(arr, a, b) {
   const indexOfA = arr.indexOf(a);
   const indexOfB = arr.indexOf(b);
