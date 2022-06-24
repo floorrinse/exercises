@@ -11,6 +11,15 @@ You are given the following values preloaded (remember, since I can't use unicod
 const fullMoon = 'o'
 const halfMoon = 'c'
 const newMoon = 'x'
+
+Input: 1
+Expected output: 'cxxxx'
+
+Input: 7.2
+Expected output: 'ooocx'
+
+Input: 5.9
+Expected output: 'oooxx'
 */
 
 function moonRating(rating) {
